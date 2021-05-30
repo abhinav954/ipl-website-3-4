@@ -1,0 +1,53 @@
+body{
+    background:url(https://resources.platform.iplt20.com/IPL/photo/2017/04/05/ad98f361-adee-4c3f-b99d-4b552fc40347/_Y8A7093.JPG);
+    font:"Helvetica Neue", sans-serif;
+    color:#fff;
+    overflow-x:hidden;
+    padding-bottom:50px;
+    background-size:cover;
+    background-position:center;  
+    } 
+    
+    #navbar ul {
+      display:flex;
+      align-content:center;
+      justify-content:center;
+    }
+    
+    #navbar ul li {
+      list-style:none;
+    }
+    
+    #navbar ul li a {
+      text-transform:uppercase;
+      font-weight:bold;
+      color:blue;
+      font-size:3em;
+      text-decoration:none;
+      padding:1em;
+      white-space:nowrap;
+      letter-spacing:1px;
+    }
+    
+    #resultst{
+    text-align:center;
+    }
+    
+    span{
+     
+      font-size:40px;
+      text-align:center;
+      color:orange;
+    }
+    
+    #submit{
+      background-color: #3BAF;
+      display:outline-block;
+      font-size:30px;
+      border-radius:15%;
+    }
+    
+    select{
+        height: 45px;
+        width: 200px;
+    }
